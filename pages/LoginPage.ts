@@ -33,3 +33,4 @@ export class LoginPage {
 // pages/LoginPage.ts — locators and actions in one reusable class
 // tests/login.spec.ts — clean, readable tests that just call that class
 // Everything passing across Chromium, Firefox, and WebKit
+
