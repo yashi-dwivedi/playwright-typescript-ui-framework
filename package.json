@@ -1,0 +1,22 @@
+{
+  "name": "playwright-typescript-ui-framework",
+  "version": "1.0.0",
+  "description": "UI automation framework built with Playwright and TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashi-dwivedi/playwright-typescript-ui-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashi-dwivedi/playwright-typescript-ui-framework/issues"
+  },
+  "homepage": "https://github.com/yashi-dwivedi/playwright-typescript-ui-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
